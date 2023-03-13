@@ -1,0 +1,8 @@
+E:\SkilFact\InterfaceWork\InterfaceTask_1_2\bin\Debug\InterfaceTask_1_2.exe.config
+E:\SkilFact\InterfaceWork\InterfaceTask_1_2\bin\Debug\InterfaceTask_1_2.exe
+E:\SkilFact\InterfaceWork\InterfaceTask_1_2\bin\Debug\InterfaceTask_1_2.pdb
+E:\SkilFact\InterfaceWork\InterfaceTask_1_2\obj\Debug\InterfaceTask_1_2.csproj.AssemblyReference.cache
+E:\SkilFact\InterfaceWork\InterfaceTask_1_2\obj\Debug\InterfaceTask_1_2.csproj.SuggestedBindingRedirects.cache
+E:\SkilFact\InterfaceWork\InterfaceTask_1_2\obj\Debug\InterfaceTask_1_2.csproj.CoreCompileInputs.cache
+E:\SkilFact\InterfaceWork\InterfaceTask_1_2\obj\Debug\InterfaceTask_1_2.exe
+E:\SkilFact\InterfaceWork\InterfaceTask_1_2\obj\Debug\InterfaceTask_1_2.pdb
